@@ -1,3 +1,6 @@
 main{
     min-height: 80vh;
 }
+.card-height{
+    min-height: 45vh;
+}
